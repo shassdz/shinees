@@ -15,20 +15,20 @@
 }
 h1 {
     font-weight: 700;
-    font-size: 25px;
+    font-size: 1.563rem;
     padding-top: 1rem;
     margin: 0.2rem auto;
 }
 .location {
     color: hsl(75, 94%, 57%);
     font-weight: 600;
-    font-size: 14px;
+    font-size: 0.875rem;
     padding-bottom: 1rem;
     margin-top: 0.4rem;
 }
 .description {
     font-weight: 400;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 body {
     background-color: hsl(0, 0%, 8%);
